@@ -1,0 +1,9 @@
+%„M„p„„„‚„y„ˆ„p „R„}„u„w„~„€„ƒ„„„y, „{„€„|„y„‰„u„ƒ„„„r„€ „r„u„‚„Š„y„~ „€„„‚„u„t„u„|„‘„u„„„ƒ„‘ „p„r„„„€„}„p„„„y„‰„u„ƒ„{„y
+3% „K„€„|„y„‰„u„ƒ„„„r„€ „r„u„‚„Š„y„~
+1% 1 - „E„ƒ„„„Ž „ƒ„„y„ƒ„€„{ „r„u„‚„Š„y„~, 0 - „~„u„„ „ƒ„„y„ƒ„{„p „r„u„‚„Š„y„~
+„r„u„‚„Š„y„~„p1 100 20
+2 210 60
+3 40 120
+0 1 1
+1 0 1
+1 1 0

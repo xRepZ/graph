@@ -1,0 +1,14 @@
+C:\WinForms\Graph\Graph\Graph\bin\Debug\Graph.exe.config
+C:\WinForms\Graph\Graph\Graph\bin\Debug\Graph.exe
+C:\WinForms\Graph\Graph\Graph\bin\Debug\Graph.pdb
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.AboutProgramForm.resources
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.Form1.resources
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.cache
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.exe
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.pdb
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.AboutAutorForm.resources
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.FormRenameNode.resources
+C:\WinForms\Graph\Graph\Graph\obj\Debug\Graph.EdgeForm.resources
